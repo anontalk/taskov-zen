@@ -37,6 +37,10 @@ body {
   left: 0;
   z-index: -1;
 }
+.h1 {
+  background-color: #010f1c;
+ 
+}
 
 .gradient-circle {
   background: conic-gradient(
